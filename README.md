@@ -71,6 +71,13 @@ Dynamic bar and pie charts.
 Clean and responsive UI.
 
 
+🎥 Live Demo:
+
+▶️ [Click here to watch the full demo on Google Drive](https://drive.google.com/file/d/1K_zLH5aDeIvE8n8RxMFCa6WlVmK4zdlX/view?usp=drivesdk)
+
+This demo video walks through how the Green Score Calculator works, including data entry, AI scoring, analysis charts, and suggestions for reducing environmental impact.
+
+
  •Project Structure:
 
 📦green-score-calculator
@@ -112,11 +119,10 @@ pandas
 
 numpy
 
-
 (You can find them all in requirements.txt)
 
 
-👨‍💻 Author:
+ •Author:
 
 Developed by Hassan Ismail
 
@@ -128,3 +134,9 @@ Connect with Me:
 
 🐙 GitHub: github.com/codehassan929
 
+
+ •License:
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this project for personal or educational purposes.
